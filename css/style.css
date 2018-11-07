@@ -1,0 +1,60 @@
+			table,
+			tr,
+			td {
+				border: 1px solid #000;
+				border-collapse: collapse;
+				margin: 0 auto;
+				;
+			}
+			
+			td {
+				width: 45px;
+				height: 42px;
+				box-sizing: border-box;
+			}
+			
+			.wxzs {
+				background: url(../img/wxzs.png) no-repeat;
+				background-position: center;
+			}
+			
+			.wxz {
+				background: url(../img/3.png) no-repeat;
+				background-position: center;
+			}
+			
+			.blue {
+				background: url(../img/mb.png) no-repeat;
+				background-position: center;
+			}
+			
+			a {
+				position: absolute;
+				top: 50%;
+				left: 10%;
+				text-decoration: none;
+			}
+			
+			p.t {
+				position: absolute;
+				top: 60%;
+				left: 5%;
+			}
+			
+			p.pc {
+				position: absolute;
+				top: 65%;
+				left: 5%;
+			}
+			
+			p.s {
+				position: absolute;
+				top: 40%;
+				left: 0;
+			}
+			
+			p.ss {
+				position: absolute;
+				top: 35%;
+				left: 0;
+			}
